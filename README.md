@@ -3,3 +3,7 @@
 const intervalTime = 1000;
 )
  )
+// Set the target button element ID 
+const buttonId = 'clickButton'; 
+  )
+//
