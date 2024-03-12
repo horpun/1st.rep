@@ -7,3 +7,6 @@ const intervalTime = 1000;
 const buttonId = 'clickButton'; 
   )
 //
+// Get the target button element 
+const button = document.getElementById(buttonId
+); 
